@@ -455,6 +455,10 @@ li {
     align-items: center;
     padding-right: 6vw;
   }
+
+  .product img {
+    width: 75vw;
+  }
 }
 
 @media (max-width: 450px) {
