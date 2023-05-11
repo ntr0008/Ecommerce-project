@@ -195,7 +195,6 @@ h1 {
   background-color: #1d1d23;
   color: #d9cc48;
   margin: 3rem;
-  z-index: -1;
 }
 
 .news:hover {
@@ -281,6 +280,10 @@ a {
 
   footer {
     margin-bottom: 15rem;
+  }
+
+  .news {
+    z-index: -1;
   }
 }
 
